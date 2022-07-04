@@ -1,0 +1,11 @@
+127.0.0.1	localhost
+::1             localhost ip6-localhost ip6-loopback
+
+# public url (FQDN)
+35.209.83.169  jitsi-telehealth.mywire.org
+
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+
+10.128.0.7 instance-6.us-central1-a.c.cobalt-column-349808.internal instance-6  # Added by Google
+169.254.169.254 metadata.google.internal  # Added by Google
