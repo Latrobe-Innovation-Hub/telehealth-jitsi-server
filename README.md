@@ -1,2 +1,2 @@
 # telehealth-jitsi-server
-config files for jitsi server
+configration files for jitsi server
